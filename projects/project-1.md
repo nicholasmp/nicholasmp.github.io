@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/KapCC logo.png
+image: images/KapCClogo.png
 title: KCC Stem Advising
 permalink: projects/kccstemadvising
 # All dates must be YYYY-MM-DD format!

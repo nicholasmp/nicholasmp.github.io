@@ -12,7 +12,7 @@ labels:
 summary: My first semester long ICS project for an ICS course was in my second year of College when I took ICS 211 at Kapiolani Community College(KCC).
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/">
 
 During my Fall semester at Kapiolani Community College(KCC) I took part in a project for my ICS 211 course that required us to recreate simple code behind the popular video game Pokemon. All of my final submission files are in a GitHub repository, these include a simple pokedex, pokemon from bulbasaur to blastoise(pokemon numbers 1-9), the pokemon types, an array and arraylist structure to save lists of pokemon, a tree structure to order pokemon, an interactive game, and a very simple user interface. 
 

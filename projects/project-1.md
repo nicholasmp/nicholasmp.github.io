@@ -12,10 +12,9 @@ labels:
 summary: In the Spring of 2018 I was asked to help the Stem department at Kapiolani Community College(KCC) to increase the number of available tutors for Computer Science. 
 ---
 
-<div class="ui image">
-  <img class="ui image" src="../images/StemCenterLayout.jpg">
-  <img class="ui image" src="../images/KCCStemCite.png">
-</div>
+<img class="ui image" src="../images/StemCenterLayout.jpg">
+<img class="ui image" src="../images/KCCStemCite.png">
+
 
 All students at Kapiolani Community College(KCC) enrolled in any Stem (Science, Technology, Engineering, and Math) classes are able to take advantage of the free tutoring service in the Stem center at KCC. The Stem center at KCC is located in the Koki‘o building room 202, the stem center also houses the offices to a few stem professors. To access the services of the Stem center students are asked to sign into a computer at the door on the left of the entrance. From there students are encouraged to locate a tutor, who all have large name cards situated to face toward the door, and introduce themselves asking a question that the tutor can help them solve. 
 

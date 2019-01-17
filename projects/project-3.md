@@ -12,7 +12,7 @@ labels:
 summary: As of the spring 2019 semester at the University of Hawaii, I want to build a language recognition program that identifies the political standing of a writer. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/">
 
 As a computer science student programing is a large interest of mine, but as of recent the political debate has started to also peek my interest. During the last political election between the now elected Trump and his opponent Hillary Clinton, I quickly recognized that the political debate can be easily manipulated and that a large portion of people don’t know what they can actually rely on as credible data or not. I came to this realization when I had two different friends, supporting the two opposite candidates who would support and counter each others claims from multiple different sources. Which brings me to why I want to make a language recognition software that identifies political agendas. 
 

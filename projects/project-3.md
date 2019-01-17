@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/
 title: Potential Project
-permalink: projects/Potential Project
+permalink: projects/PotentialProject
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-01
 labels:

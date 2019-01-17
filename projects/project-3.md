@@ -3,12 +3,11 @@ layout: project
 type: project
 image: images/
 title: Potential Project
-permalink: projects/PotentialProject
+permalink: projects/potentialproject
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-01
 labels:
   - Potential Project
-  - Software Engineering
   - GitHub
 summary: As of the spring 2019 semester at the University of Hawaii, I want to build a language recognition program that identifies the political standing of a writer. 
 ---

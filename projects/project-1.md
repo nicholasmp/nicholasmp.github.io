@@ -12,7 +12,7 @@ labels:
 summary: In the Spring of 2018 I was asked to help the Stem department at Kapiolani Community College(KCC) to increase the number of available tutors for Computer Science. 
 ---
 
-<div class="ui small rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/StemCenterLayout.jpg">
   <img class="ui image" src="../images/KCCStemCite.png">
 </div>

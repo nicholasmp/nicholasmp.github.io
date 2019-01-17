@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/PoliticalPartyLogos.jpg
 title: Potential Project
 permalink: projects/potentialproject
 # All dates must be YYYY-MM-DD format!

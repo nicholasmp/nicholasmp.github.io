@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/PokemonProjectBanner.png
 title: ICS 211 Semester Project
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!

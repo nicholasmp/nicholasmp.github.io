@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/PokemonProjectBanner.png
 title: ICS 211 Semester Project
-permalink: projects/ICS211project
+permalink: projects/ics211project
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-06
 labels:

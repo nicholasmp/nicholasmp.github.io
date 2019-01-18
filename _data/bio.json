@@ -95,22 +95,21 @@
   "volunteer": [
     {
       "organization": "NA",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "website": ,
+      "position": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": ,
       "highlights": [
-        ""
       ]
     }
   ],
   "awards": [
     {
       "title": "NA",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "date": ,
+      "awarder": ,
+      "summary":
     }
   ],
   "references": [

@@ -94,22 +94,22 @@
   ],
   "volunteer": [
     {
-      "organization": " Not Available",
-      "website":"",
-      "position":"" ,
-      "startDate":"" ,
-      "endDate":"" ,
-      "summary":"" ,
-      "highlights": [
+      //"organization": " Not Available",
+      //"website":"",
+      //"position":"" ,
+      //"startDate":"" ,
+      //"endDate":"" ,
+      //"summary":"" ,
+      //"highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": " Not Available",
-      "date":"",
-      "awarder":"",
-      "summary":""
+      //"title": " Not Available",
+      //"date":"",
+      //"awarder":"",
+      //"summary":""
     }
   ],
   "references": [

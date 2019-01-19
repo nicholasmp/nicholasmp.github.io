@@ -11,7 +11,7 @@ labels:
 
 ## The First two Weeks of ICS 314
 
-January 18, the second week of my spring 2019 semester comes to a close and with it the first week working with Javascript. Past programing languages like C and Java made the basics of Javascript an easy learning experience, but the gap in my programing experience has also had its effects, the spring of 2018 being the last time I have programed seriously. To be brutally honest my first two weeks here at the University of Hawaii at Manoa have been more stressful than any other experience I have felt at Kapiolani Community College, with ICS 314 arguably being the most stressful of my four classes. But just because it might be my most stressful class I’ll also admit that it’s my favorite class as well, a class I hope I can continue to enjoy. 
+January 18, the second week of my spring 2019 semester comes to a close and with it the first week working with Javascript. Past programing languages like C and Java made the basics of Javascript an easy learning experience, but the gap in my programing experience has also had its effects, the spring of 2018 being the last time I have programed seriously. To be brutally honest my first two weeks here at the University of Hawaii at Manoa have been more stressful than any other experience I have felt at Kapiolani Community College, with ICS 314 arguably being the most stressful of my four classes. But just because it might be my most stressful class doesn't mean it won't be my most enjoyed, and I do hope I will be able to say it's my favorite class by the end of the year. 
 
 ### Struggling with simple differences
 

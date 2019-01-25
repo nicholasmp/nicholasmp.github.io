@@ -11,7 +11,7 @@ labels:
   - GitHub
 summary: As of the spring 2019 semester at the University of Hawaii, I want to build a language recognition program that identifies the political standing of a writer. 
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="{{ site.baseurl }}/images/TumpvsHillary.jpg">
   <img class="ui image" src="{{ site.baseurl }}/images/HawaiiRail.jpg">
 </div>

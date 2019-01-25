@@ -94,7 +94,13 @@
   ],
   "volunteer": [
     {
-      "organization": "Not Available"
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }  
   ],
   "awards": [

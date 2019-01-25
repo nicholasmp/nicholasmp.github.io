@@ -105,7 +105,8 @@
   ],
   "awards": [
     {
-      "awarder": "Not Available",
+      "title": "Not Available",
+      "awarder": "",
       "summary": ""
     }  
   ],

@@ -105,7 +105,10 @@
   ],
   "awards": [
     {
-      "title": "Not Available"
+      "title": "",
+      "date": "Not Available",
+      "awarder": "",
+      "summary": ""
     }  
   ],
   "references": [

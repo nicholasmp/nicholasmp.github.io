@@ -11,7 +11,7 @@ labels:
   - GitHub
 summary: My first semester long ICS project for an ICS course was in my second year of College when I took ICS 211 at Kapiolani Community College(KCC).
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/ProgramScreenShot.png">
   <img class="ui image" src="../images/PokemonEvolution.jpg">
 </div>

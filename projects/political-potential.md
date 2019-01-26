@@ -13,7 +13,7 @@ summary: As of the spring 2019 semester at the University of Hawaii, I want to b
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/TumpvsHillary.jpg">
+  <img class="ui large image" src="../images/TumpvsHillary.jpg">
   <img class="ui small image" src="../images/HawaiiRail.jpg">
 </div>
 

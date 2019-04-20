@@ -18,3 +18,4 @@ Near the end of my first Software Engineering course at the Univeristy of Hawaii
 
 ### My Idea of Ethics
 
+To be honest I dislike the idea of teaching ethics, I find the idea that it's necessary to be quite distressful. In my eyes ethics are the actions people take to support the well being of the community as a whole, that holding the well being of the group is more important than any one individual. That being said, this was common sense I grew up with and in regardes to Software Engineering I think it should hold true that ethically engineers should not only hold the well being of society over share holders but should also be blatantly obvious about their intentions. This is idea is also a goal that I aim to follow and achieve in the future of my career.

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/uh-ics.jpg
 title: myUH Club (ICS 314 Final Project)
 permalink: projects/myuhclub
 # All dates must be YYYY-MM-DD format!

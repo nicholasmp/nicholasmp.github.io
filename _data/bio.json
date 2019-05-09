@@ -77,13 +77,13 @@
       "gpa": "3.4",
       "courses": [
         "Information and Computer Science 111, 211, 212",
-        "Discrete Mathmatics 141, 241",
+        "Discrete Mathematics 141, 241",
         "Chemistry 161, 161L, 162, 162L",
         "Physics 151, 151L",
         "History 151, 152",
         "Political Science 110",
         "Socialogy 100",
-        "Mathmatics 241",
+        "Mathematics 241",
         "English 100"
       ]
     },
@@ -96,7 +96,7 @@
       "gpa": "3.4",
       "courses": [
         "Information and Computer Science 314",
-        "Mathmatics 242",
+        "Mathematics 242",
         "German 101",
         "IP 391"
       ]

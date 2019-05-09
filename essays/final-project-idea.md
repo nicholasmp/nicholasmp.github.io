@@ -10,9 +10,7 @@ labels:
 
 # Overview
 
-This is an initial idea that might sound pessimistic at first. 
-
-### The problem being with the style of Professors here at UH. 
+This is an initial idea that might sound pessimistic at first, but a problem I've seen is with the style of Professors here at UH. 
 
 ### The solution is a simplier version of rate my professor, with less of the hate.
 

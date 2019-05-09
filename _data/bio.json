@@ -51,14 +51,19 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "JavaScript",
+        "Semantic UI",
+        "React",
+        "Meteor"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/GitHub"
+        "Git/GitHub",
+        "Windows"
       ]
     }
   ],
@@ -68,12 +73,31 @@
       "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
-      "endDate": "2021-12-14",
+      "endDate": "2018-12-05",
       "gpa": "3.4",
       "courses": [
-        "ICS 314",
-        "Math 242",
-        "GER 101",
+        "Information and Computer Science 111, 211, 212",
+        "Discrete Mathmatics 141, 241",
+        "Chemistry 161, 161L, 162, 162L",
+        "Physics 151, 151L",
+        "History 151, 152",
+        "Political Science 110",
+        "Socialogy 100",
+        "Mathmatics 241",
+        "English 100"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "3.4",
+      "courses": [
+        "Information and Computer Science 314",
+        "Mathmatics 242",
+        "German 101",
         "IP 391"
       ]
     }
@@ -85,23 +109,12 @@
       "website": "http://stem.kapiolani.hawaii.edu/",
       "startDate": "2018-01-15",
       "endDate": "2018-05-11",
-      "summary": "Peer mentors are meant to help and tutor other students with their school work.",
+      "summary": "Peer mentors are meant to help tutor other students with their school work.",
       "highlights": [
         "Assisting stem students when professors aren't in their office",
         "Using experiences in classes to help teach their students"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "Not Available",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    }  
   ],
   "awards": [
     {

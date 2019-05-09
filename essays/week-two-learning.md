@@ -15,7 +15,7 @@ January 18, the second week of my spring 2019 semester comes to a close and with
 
 ### Struggling with simple differences
 
-I would be lying if I said that learning Javascript over the first weekend of this semester wasn’t stressful. It felt like a review of Java, yet declarations felt to simple, the formatting style was different, and these changes alone put me on edge. The introduction of the Workouts of the Day(WODs) haven’t helped. The WOD’s presented in class so far have been simple and as such i’ve second guessed myself on all of them, which isn’t much of a confidence booster programming again for the first time after 7 months. What I can say is that this rip the bandaid off approach to reinforcing the basics of Javascript has been successful if nothing else. Each question I’ve had about Javascript differing from Java has almost immediately been answered in the next WOD. 
+I would be lying if I said that learning Javascript over the first weekend of this semester wasn’t stressful. It felt like a review of Java, yet declarations felt to simple, the formatting style was different, and these changes alone put me on edge. The introduction of the Workouts of the Day(WODs) haven’t helped. The WOD’s presented in class so far have been simple and as such i’ve second guessed myself on all of them, which isn’t much of a confidence booster programming again for the first time after 7 months. What I can say is that this approach to reinforcing the basics of Javascript in one weekend has been successful if nothing else. Each question I’ve had about Javascript and how it differs from Java has almost immediately been answered in the next WOD. 
 
 ### A learning style I am going to enjoy
 

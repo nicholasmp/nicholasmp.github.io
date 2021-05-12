@@ -73,32 +73,35 @@
       "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
-      "endDate": "2018-12-05",
-      "gpa": "3.4",
+      "endDate": "2021-14-05",
+      "gpa": "3.68",
       "courses": [
-        "Information and Computer Science 111, 211, 212",
+        "Information and Computer Science 111, 211, 212, 311, 314, 321, 332, 361, 451, 469",
         "Discrete Mathematics 141, 241",
         "Chemistry 161, 161L, 162, 162L",
         "Physics 151, 151L",
         "History 151, 152",
         "Political Science 110",
         "Socialogy 100",
-        "Mathematics 241",
-        "English 100"
+        "Mathematics 241, 242, 307",
+        "English 100",
+        "German 101, 102, 201, 202",
+        "Food Science Health Nutrition 185 ",
+        "Indo-Pacific Languages 391",
+        "Political Science 301"
       ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
+      "startDate": "2021-14-05",
       "endDate": "Present",
-      "gpa": "3.4",
+      "gpa": "3.68",
       "courses": [
-        "Information and Computer Science 314",
-        "Mathematics 242",
-        "German 101",
-        "IP 391"
+        "Information and Computer Science 414, 427",
+        "Physics 152, 152L",
+        "Woman Studies Biology 350"
       ]
     }
   ],
